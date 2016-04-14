@@ -1,0 +1,3 @@
+[submodule "BelinaTestTask"]
+	path = BelinaTestTask
+	url = https://github.com/VasiliKrasnouski/BelinaTestTask.git
